@@ -28,11 +28,11 @@ Dependencies:
 
 This module requires these other modules and libraries:
 
-Data::Dumper;
-IO::Socket::INET;
-JSON;
-LWP::UserAgent;
-XML::Twig;
+- Data::Dumper;
+- IO::Socket::INET;
+- JSON;
+- LWP::UserAgent;
+- XML::Twig;
 
 See Also:
 ---------
