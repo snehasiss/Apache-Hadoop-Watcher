@@ -17,8 +17,8 @@ archive can use it get an idea of the modules uses. It is usually a
 good idea to provide version information here so that people can
 decide whether fixes for the module are worth downloading.
 
-INSTALLATION
-------------
+Installation:
+-------------
 
 To install this module type the following:
 ```
@@ -27,8 +27,9 @@ To install this module type the following:
    make test
    make install
 ```
-DEPENDENCIES
-------------
+
+Dependencies:
+-------------
 
 This module requires these other modules and libraries:
 
@@ -38,9 +39,11 @@ JSON;
 LWP::UserAgent;
 XML::Twig;
 
-COPYRIGHT AND LICENCE
----------------------
+See Also:
+---------
+Available in cpan as a package at http://search.cpan.org/~snehasis/Apache-Hadoop-Watcher-0.01/
 
+Copyright and Licence:
+----------------------
 Copyright (C) 2015 by Snehasis Sinha
-
 Apache Licence 2.0
